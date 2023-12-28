@@ -1,0 +1,39 @@
+/* Write your CSS here */
+.img {
+  height: 50px;
+  width: 50px;
+}
+.lighty {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: white;
+}
+.darky {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: black;
+}
+.headLit {
+  margin-top: 5px;
+  color: #1e293b;
+  font-size: 22px;
+}
+.paraLit {
+  margin-top: 5px;
+  color: #334155;
+  font-size: 15px;
+}
+.headDrk {
+  margin-top: 5px;
+  color: #1e293b;
+  font-size: 22px;
+}
+.paraDrk {
+  margin-top: 5px;
+  color: #334155;
+  font-size: 15px;
+}

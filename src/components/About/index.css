@@ -1,0 +1,30 @@
+/* Write your CSS here */
+/* Write your CSS here */
+.img {
+  height: 80px;
+  width: 80px;
+}
+.lighty {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: white;
+}
+.darky {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: black;
+}
+.light {
+  margin-top: 5px;
+  color: #1e293b;
+  font-size: 25px;
+}
+.dark {
+  margin-top: 5px;
+  color: white;
+  font-size: 25px;
+}

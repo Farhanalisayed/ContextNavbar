@@ -1,0 +1,40 @@
+/* Write your CSS here */
+.light-nav {
+  display: flex;
+  justify-content: space-between;
+  padding: 4px;
+  background-color: white;
+  box-shadow: 0px 0px 4px 0px silver;
+}
+.dark-nav {
+  display: flex;
+  justify-content: space-between;
+  padding: 4px;
+  background-color: #333333;
+  box-shadow: 0px 0px 4px 0px silver;
+}
+.logo {
+  height: 20px;
+  width: 20px;
+}
+.links {
+  display: flex;
+}
+Link {
+  text-decoration: none;
+}
+.lightOne {
+  text-decoration: none;
+  font-size: 12px;
+  margin: 2px;
+  color: #171f46;
+}
+.darkOne {
+  text-decoration: none;
+  font-size: 12px;
+  margin: 2px;
+  color: white;
+}
+ul {
+  list-style-type: none;
+}
